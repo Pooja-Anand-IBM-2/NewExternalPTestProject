@@ -15,7 +15,7 @@
         <value name="lastModifiedByUserId">6f7909e96ad14a5bbd4c015f4d22f6df</value>
         <number name="lastModifiedDate" type="Long">1770625922259</number>
       </record>
-      <Boolean name="wMIODocTypeReplica">true</Boolean>
+      <Boolean name="wMIODocTypeReplica">false</Boolean>
     </record>
     <value name="is_public">false</value>
     <value name="field_type">record</value>
